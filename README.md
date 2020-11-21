@@ -40,7 +40,8 @@ Dependencies
 
 Installing
 Clone this GIT repository:
-git clone https://github.com/isakkabir/Disaster-Response-ML-Pipeline.git
+git clone https://github.com/singh728om/Twitter-Disaster-response
+
 
 
 Executing Program:
