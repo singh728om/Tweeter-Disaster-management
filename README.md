@@ -1,4 +1,4 @@
-# Disaster-Response-ML-Pipeline
+# Disaster-Response
 
 # Table of Contents<a name="Table of Contents"></a>
 
@@ -21,10 +21,13 @@ The project contains the following parts:  
 
 # Run in Vs-Code<a name="How to run"></a>
 
-*open folder in VS-Code
-*cd app
-*python run.py
-*Go to http://0.0.0.0:3001/
+##open folder in VS-Code
+
+##cd app
+
+##python run.py
+
+##Go to http://0.0.0.0:3001/
 
 
 # Installation<a name="installation"></a>
