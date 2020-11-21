@@ -21,13 +21,13 @@ The project contains the following parts:  
 
 # Run in Vs-Code<a name="How to run"></a>
 
-##open folder in VS-Code
+--> open folder in VS-Code
 
-##cd app
+--> cd app
 
-##python run.py
+--> python run.py
 
-##Go to http://0.0.0.0:3001/
+--> Go to http://0.0.0.0:3001/
 
 
 # Installation<a name="installation"></a>
